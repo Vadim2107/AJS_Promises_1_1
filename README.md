@@ -1,1 +1,3 @@
-# AJS_Promises_1_1
+
+# Домашнее задание к лекции «Promises, async/await»
+## Promises
