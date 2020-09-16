@@ -1,5 +1,5 @@
 {
-  "name": "ajs_promises",
+  "name": "ajs_promises_1_1",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "babel-jest": "^25.5.1",
     "babel-loader": "^8.1.0",
     "css-loader": "^3.6.0",
-    "eslint": "^7.8.1",
+    "eslint": "^7.9.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.0",
     "html-loader": "^1.1.0",
